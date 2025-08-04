@@ -22,7 +22,3 @@ O dashboard completo e interativo deste projeto pode ser acessado no meu portfó
 - **Power BI:** Para o desenvolvimento do dashboard interativo.
 - **DAX:** Para a criação de medidas e indicadores.
 
-## Documentação
-- [Apresentação Executiva]([documentacao/Apresentacao_Executiva.ppt](https://github.com/renanlima2023/moduloprodutivo-xperiun/blob/main/Data%20Pulse%20-%20Apresenta%C3%A7%C3%A3o%20Comercial.pptx))
-- [Documento Final do Projeto]([documentacao/Documentacao_Projeto.pdf](https://github.com/renanlima2023/moduloprodutivo-xperiun/blob/main/Documenta%C3%A7%C3%A3o%20Xperiun%20Metalurgica.pdf))
-- [Dados e Medidas]([dados/Medidas_e_KPIs.xlsx](https://github.com/renanlima2023/moduloprodutivo-xperiun/blob/main/Documentacao%20Squad%2010%20-%20Data%20Challenge%2001%20-%20Medidas%20e%20Premissas.xlsx))
